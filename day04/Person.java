@@ -4,8 +4,8 @@ public class Person{
         //1.只能有一个public类  2.类名与文件名一致
 		
 		//成员变量:系统默认初始化,取决于类型
-		String name;
-		int    age ;  
+		String name;  //引用数据类型 
+		int    age ;  //基本数据类型
 		
 		//成员方法
 		

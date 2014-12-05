@@ -2,8 +2,8 @@
 public class PersonTest{
 	public static void main(String[] args){
 		//实例化: 引用=变量=实例
-	   //在定义类的时候[没有]自定义无参构造器，编译系统自动指定构造器
-	   //在定义类的时候[有]自定义无参构造器，使用自定义的构造器
+	    //在定义类的时候[没有]自定义无参构造器，编译系统自动指定构造器
+	    //在定义类的时候[有]自定义无参构造器，使用自定义的构造器
 		
 		Person geminno = new Person();
 		Person gem = new Person("高博");
